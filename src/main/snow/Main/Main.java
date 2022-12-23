@@ -17,7 +17,7 @@ import static Main.util.CommandOption.*;
 
 public class Main {
 
-    static final String TOKEN = "ODY5MTUwMjM1MDczNjAxNTM3.G4XSkQ.-sWCpb9Z234fPzT8VMxymE_Vm85qfajN4AyqmY";
+    static final String TOKEN = "666";
 
     public static JDA jda;
     public static String botID;
